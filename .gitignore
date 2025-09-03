@@ -9,6 +9,7 @@ Gemfile.lock
 _site
 
 *.DS_Store
+.DS_Store
 
 # RubyGems
 *.gem
